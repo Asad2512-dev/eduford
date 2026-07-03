@@ -7,7 +7,7 @@ This project goes far beyond typical online tutorial templates. It has been rede
 ---
 
 ## Live Demo
-👉 [Live Demo Link Placeholder](https://muhammad-asad-ullah.github.io/eduford/)
+👉 [Live Demo Link ](https://asad2512-dev.github.io/eduford/)
 
 ---
 
@@ -53,13 +53,6 @@ eduford/
 │   └── user2.png
 └── README.md        # Technical project documentation
 ```
-
----
-
-## Screenshots Section
-*(Screenshots will appear here after deployment)*
-- **Desktop Preview**: A clean 3-column program grid, high contrast banner, and floating orbs.
-- **Mobile Responsive Drawer**: Compact glass nav drawer sliding from the side.
 
 ---
 
