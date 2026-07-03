@@ -1,4 +1,4 @@
-# Eduford University Landing Page
+# Eduford  Landing Page
 
 A premium, production-grade, and fully responsive university landing page built using only semantic HTML5 and vanilla CSS3. 
 
@@ -109,4 +109,4 @@ Developed and refactored by **Muhammad Asad Ullah**.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-# eduford
+
